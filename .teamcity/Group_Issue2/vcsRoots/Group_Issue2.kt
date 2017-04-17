@@ -6,8 +6,8 @@ object Group_Issue2 : GitVcsRoot({
     uuid = "a3e7a7de-bd45-4708-9678-4187feb8863b"
     extId = "Group_Issue2"
     name = "Group_Issue2"
-    url = "https://github.com/gayakwad/teamcity-issue-2.git"
-    pushUrl = "https://github.com/gayakwad/teamcity-issue-2.git"
+    url = "git@github.com:gayakwad/teamcity-issue-2.git"
+    pushUrl = "git@github.com:gayakwad/teamcity-issue-2.git"
     authMethod = uploadedKey {
         uploadedKey = "VSC Key"
     }
